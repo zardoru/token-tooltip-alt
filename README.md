@@ -6,7 +6,8 @@ Based on [the original release from bmarian](https://github.com/bmarian/token-to
 # Installation
 - Go in the `Add-on Modules` section
 - Click `Install Module`
-- And search for Token Tooltip Alt
+- paste the following line in the "manifest json" field at the bottom
+	- `https://github.com/Testbaby02/token-tooltip-alt-fix-disposition/releases/latest/download/module.json`
 
 # How to use
 
