@@ -122,7 +122,7 @@ export default class TooltipManager extends FormApplication {
   }
 
   _getEntityTypes() {
-    return Object.keys(game?.system?.model?.Actor);
+    return Object.keys(game?.system?.documentTypes?.Actor);
   }
 
   // generate a list of actors, to delete it just use in the console

@@ -138,7 +138,7 @@ class TooltipFactory {
     const altHeldRenderTooltip = this._isAltPressed() && this._getAltSettings().showOnAlt &&	
                                  (token?.document?.hidden ? this._getAltSettings().showAllOnAlt : true);
     // Prevent tooltip from disappearing when hovered in
-    const shouldShowTooltip = altHeldRenderTooltip || token._isHoverIn;
+    const shouldShowTooltip = altHeldRenderTooltip || token.hover;
     this[shouldShowTooltip ? '_addTooltip' : '_removeTooltip'](token);
   }
 

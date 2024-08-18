@@ -1,8 +1,8 @@
 {
   "id": "token-tooltip-alt",
   "title": "Token Tooltip Alt",
-  "description": "Based on the original Token Tooltip Alt, updated for v11 and integrating the currently open PRs from the main repo.",
-  "version": "3.3.2",
+  "description": "Based on Testbaby02's fork of Token Tooltip Alt, updated for v12.",
+  "version": "3.3.3",
   "authors": [
     {
       "name": "bmarian",
@@ -24,6 +24,10 @@
     {
       "name": "Testbaby02",
       "url": "https://github.com/Testbaby02"
+    },
+    {
+      "name": "zardoru",
+      "url": "https://github.com/zardoru"
     }
   ],
   "esmodules": [
@@ -39,8 +43,8 @@
     "styles/token-tooltip-alt.css"
   ],
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "languages": [
     {
@@ -70,10 +74,10 @@
       "url": "https://i.imgur.com/V3n665D.png"
     }
   ],
-  "url": "https://github.com/Testbaby02/token-tooltip-alt-fix-disposition",
-  "manifest": "https://github.com/Testbaby02/token-tooltip-alt-fix-disposition/releases/latest/download/module.json",
-  "download": "https://github.com/Testbaby02/token-tooltip-alt-fix-disposition/releases/latest/download/module.zip",
-  "changelog": "https://github.com/Testbaby02/token-tooltip-alt-fix-disposition/releases",
+  "url": "https://github.com/zardoru/token-tooltip-alt",
+  "manifest": "https://github.com/zardoru/token-tooltip-alt/releases/latest/download/module.json",
+  "download": "https://github.com/zardoru/token-tooltip-alt/releases/latest/download/module.zip",
+  "changelog": "https://github.com/zardoru/token-tooltip-alt/releases",
   "flags": {
     "media": [
       {

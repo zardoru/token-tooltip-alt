@@ -1,13 +1,13 @@
-# Token Tooltip Alt for V11
+# Token Tooltip Alt for V12
 
 A module that adds a fully customizable tooltip next to the currently hovered token to show some useful information for players and DMs.
-Based on [the original release from bmarian](https://github.com/bmarian/token-tooltip-alt) with all outstanding PR fixes from that release.
+Based on [the forked release from Testbaby02](https://github.com/TestBaby02/token-tooltip-alt-fix-disposition) with all outstanding PR fixes from that release.
 
 # Installation
 - Go in the `Add-on Modules` section
 - Click `Install Module`
 - paste the following line in the "manifest json" field at the bottom
-	- `https://github.com/Testbaby02/token-tooltip-alt-fix-disposition/releases/latest/download/module.json`
+	- `https://github.com/zardoru/token-tooltip-alt/releases/latest/download/module.json`
 
 # How to use
 
